@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there ... 
 
-<!--
-**Luchomerenda3/Luchomerenda3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm General Lucho I mean Luciano Merenda, but call me Lucho. 
 
-Here are some ideas to get you started:
+:atom: Studying physics at [FCEN-UNCuyo](https://fcen.uncuyo.edu.ar) in Mendoza, Argentina 🇦🇷 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☀️ Currently I'm a research intern at [GEHMe](https://sites.google.com/um.edu.ar/gehme/home)
+
+Interests:
+  + Physics
+  + Heliophysics
+  + Astronomy
+  + Blockchain, DAOs, & Cryptoworld
+  + Gaming
+
+You can contact me on:
+> [twitter](https://twitter.com/LuchoMerenda) \
+> lucianomerenda3@gmail.com \
