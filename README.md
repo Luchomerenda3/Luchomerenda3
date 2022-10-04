@@ -14,6 +14,8 @@ Interests:
   + Gaming
 
 You can contact me on:
-> [twitter](https://twitter.com/LuchoMerenda) 
+> [twitter](https://twitter.com/LuchoMerenda)  
+
 > lucianomerenda3@gmail.com
+
 > [Linkedin](https://www.linkedin.com/in/luciano-merenda/)
