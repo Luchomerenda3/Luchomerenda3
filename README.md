@@ -15,6 +15,6 @@ Interests:
 
 You can contact me on:
 > [twitter](https://twitter.com/LuchoMerenda)  
-> [Linkedin](https://www.linkedin.com/in/luciano-merenda/)
+> [Linkedin](https://www.linkedin.com/in/luciano-merenda/)  
 > [mail](mailto:lucianomerenda3@gmail.com)
 
