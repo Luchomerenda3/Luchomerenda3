@@ -10,7 +10,7 @@ Interests:
   + Physics
   + Heliophysics
   + Astronomy
-  + Blockchain, DAOs, & Cryptoworld
+  + Blockchain & Cryptoworld
   + Gaming
 
 You can contact me on:
